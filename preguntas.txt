@@ -1,1 +1,2 @@
 1- Para que sirve el modulo 'http'?
+2- para que sirve la funcion app.get(...) ver servidor.js linea 5 
